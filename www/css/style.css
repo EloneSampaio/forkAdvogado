@@ -1,0 +1,157 @@
+.login-custom {
+	background-color: #000;
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.list {
+	width: 75%;
+	margin: auto;
+	margin-top: 60px;
+}
+.item {
+	background: none;
+	border:none;
+}
+.item-input {
+	border-bottom: 1px solid #fff;
+}
+.item-input i {
+	color: #fff;
+	font-size: 25px;
+}
+.item-input input {
+	font-size: 16px;
+	margin-left: 10px;
+	color: #fff;
+}
+.item-button {
+	padding: 0;
+}
+
+h1 {
+	font-family: 'Pacifico';
+	color: #000;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 50px;
+}
+h1 span {
+	font-family: 'Pacifico';
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	margin-top: 55px;
+	margin-left: -35px;
+}
+
+.button-first {
+	padding-top: 20px;
+}
+
+.button-clear.button-clear {
+	padding: 0;
+	margin: 0;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+/*Manipulando botoens do formulario*/
+
+#btn-facebook{
+	background-color: #3b5998;
+	color: #ffffff;
+}
+
+#btn-google{
+	background-color:#d62d20;
+	color: #ffffff;
+}
+
+#btn-CConta{
+	color: #ffffff;
+	font-weight: bold;
+}
+
+
+.bar {
+	background:none;
+}
+.top-profile {
+	text-align: center;
+	margin-top: 20px;
+}
+.top-profile img {
+	width: 120px;
+	border-radius: 50%;
+}
+.top-profile .badge {
+	background-color: #FF4B5A;
+	width: 22px;
+	height: 22px;
+	color: #fff;
+	border-radius: 50%;
+	text-align: center;
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 5px;
+}
+
+.name {
+	font-size: 18px;
+	color: #4E4E4E;
+	text-align: center;
+	margin: 0;
+}
+.prof {
+	font-size: 12px;
+	color: #A5A5A5;
+	text-align: center;
+	margin: 0;
+}
+
+.sociais {
+	text-align: center;
+	margin-top: 10px;
+}
+.sociais button {
+	border-radius: 50%;
+	min-width: 45px;
+	min-height: 45px;
+	margin: 5px;
+}
+.sociais button.button.icon:before {
+	font-size: 20px;
+}
+.button-positive.button-facebook {
+	background-color: #5171A5;
+}
+
+h3 {
+	color: #909090;
+	font-size: 14px;
+	padding: 10px;
+	margin-bottom: 0;
+}
+h4 {
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right:10px; 
+	margin: 0;
+}
+p {
+	color: #909090;
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right:10px; 
+}
+
+.contato {
+	color: #484848;
+	margin-top: 10px;
+}
+.contato button {
+	margin-left: 10px;
+	margin-top: -3px;
+	margin-right: 10px;
+}

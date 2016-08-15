@@ -1,0 +1,25 @@
+<ion-view >
+   <ion-header-bar align-title="left" class="bar-positive">
+        
+       
+      </ion-header-bar>
+    <ion-content class="has-header padding">
+        <form name="form"  class="list card no-margin">
+            
+            <ion-input class="item item-input item-stacked-label" >
+                <ion-label >Email</ion-label>
+                <input type="email" name="email" placeholder="Email" ng-model="vm.email" required>
+            </ion-input>
+ 
+            <ion-input class="item item-input item-stacked-label">
+                <ion-label >Senha</ion-label>
+                <input type="password" name="senha" placeholder="Senha" ng-model="vm.senha">
+            </ion-input>
+ 
+            <ion-input class="item item-input padding">
+                <input type="button" class="button button-positive" value="Criar" ng-click="vm.add(vm)" />
+            </ion-input>
+ 
+        </form>
+    </ion-content>
+</ion-view>

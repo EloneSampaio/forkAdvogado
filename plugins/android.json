@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.ionicframework.app802772"
+        },
+        "cordova-plugin-spinner-dialog": {
+            "PACKAGE_NAME": "com.ionicframework.app802772"
+        },
+        "cordova-plugin-datepicker": {
+            "PACKAGE_NAME": "com.ionicframework.app802772"
+        }
+    },
+    "dependent_plugins": {}
+}

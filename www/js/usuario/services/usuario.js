@@ -4,12 +4,12 @@
 
 
     usuarioService.$inject = ['$firebaseAuth'];
-    angular.module('app').factory('usuarioFactory', usuarioService);
+    angular.module('app.usuario').factory('usuarioFactory', usuarioService);
 
 
     function usuarioService($firebaseAuth, $window) {
 
-        var auth = $firebaseAuth();
+        const Auth = $firebaseAuth(firebase.auth());
         var service = {
             create: create,
             login: login,
@@ -22,11 +22,11 @@
 
 
         function create(usuario) {
-            return firebase.auth().createUserWithEmailAndPassword(usuario.email, usuario.senha);
+            return Auth.$createUserWithEmailAndPassword(usuario.email, usuario.senha);
         }
 
         function login(usuario) {
-            return firebase.auth().signInWithEmailAndPassword(usuario.email, usuario.senha);
+            return Auth().signInWithEmailAndPassword(usuario.email, usuario.senha);
         }
 
         function update(usuario) {
@@ -37,18 +37,21 @@
         function authenticate(auth) {
             switch (auth) {
                 case 'facebook':
-                    var provider = new firebase.auth.FacebookAuthProvider();
+                    //var provider = new firebase.auth.FacebookAuthProvider();
+               var provider= Auth.$signInWithPopup(auth);
+                    
 
                     break;
 
                 default:
                     break;
             }
-            return firebase.auth().signInWithPopup(provider)
+            return provider;
+           // return firebase.auth().signInWithPopup(provider)
         }
 
         function sair() {
-        return  firebase.auth().signOut();
+        return  Auth.$signOut();
            
         }
 

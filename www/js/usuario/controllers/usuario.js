@@ -7,6 +7,6 @@
    
   }
 
-  angular.module('app').controller('usuarioController', usuarioController);
+  angular.module('app.usuario').controller('usuarioController', usuarioController);
 
 } ());

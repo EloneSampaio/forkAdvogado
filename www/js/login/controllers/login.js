@@ -1,9 +1,10 @@
 
 (function () {
+  'use strict';
 
   loginController.$inject = ['usuarioFactory', '$window',
     '$cordovaSpinnerDialog', '$ionicPlatform'];
-  angular.module('app').controller('loginController', loginController);
+  angular.module('app.login').controller('loginController', loginController);
 
   function loginController(usuarioService, $window, $cordovaSpinnerDialog, $ionicPlatform) {
 

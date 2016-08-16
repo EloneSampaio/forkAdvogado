@@ -1,8 +1,9 @@
 
 (function () {
+  'use strict';
 
   homeController.$inject = ['usuarioFactory'];
-  angular.module('app').controller('homeController', homeController);
+  angular.module('app.home').controller('homeController', homeController);
 
 
 
@@ -10,7 +11,7 @@
     var vm = this;
     vm.add = adicionar;
    
-
+console.log('as');
     function adicionar(d) {
 
       usuarioService.create(d);

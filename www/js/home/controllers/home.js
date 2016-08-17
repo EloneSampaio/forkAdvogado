@@ -11,7 +11,7 @@
     var vm = this;
     vm.add = adicionar;
    
-console.log('as');
+
     function adicionar(d) {
 
       usuarioService.create(d);
@@ -22,6 +22,7 @@ console.log('as');
       if (user) {
          console.log(user);
         vm.perfil = user;
+        vm.mostrar=false;
 
       } else {
         return false;

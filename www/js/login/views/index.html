@@ -1,4 +1,4 @@
-<ion-pane class="login-custom">
+    <ion-pane class="login-custom">
       <ion-content>
         <h1>Meu<span>Advogado</span></h1>
 
@@ -14,7 +14,7 @@
           </ion-item>
 
           <ion-item class="item-button button-first">
-            <button class="button button-block button-calm" ng-click="vm.login(vm)">Iniciar</button>
+            <button class="button button-block button-calm" ng-click="vm.login(vm)">Entar</button>
           </ion-item>
 
           <ion-item class="item-button">
@@ -22,12 +22,13 @@
              item-center" ng-click="vm.authenticacao('facebook')"> Logar com Facebook
             </button>
             <button id="btn-google" class="button icon-left button-block ion-social-googleplus
-             item-center"> Logar com Google+
+             item-center" ng-click="vm.authenticacao('google')"> Logar com Google+
             </button>
           </ion-item>
 
           <ion-item class="item-button">
-            <button id="btn-CConta" class="button button-block button-clear">Já tem uma conta? Clique para criar uma</button>
+            <button id="btn-CConta" go-click="/conta" class="button button-block button-clear">Cria uma conta
+            </button>
           </ion-item>
         
 

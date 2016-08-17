@@ -1,0 +1,689 @@
+{
+  "Constituição" : [ {
+    "artigo" : "1",
+    "epigrafo" : {
+      "linha1" : "Angola é uma República soberana e independente, baseada na dignidade da pessoa humana e na vontade do povo angolano, que tem como objectivo fundamental a construção de uma sociedade livre, justa, democrática, solidária, de paz, igualdade e progresso social."
+    },
+    "titulo" : "Republica de Angola"
+  }, {
+    "artigo" : "2",
+    "epigrafo" : {
+      "linha1" : "A República de Angola é um Estado Democrático de Direito que tem como fundamentos a soberania popular, o primado da Constituição e da lei, a separação de poderes e interdependência de funções, a unidade nacional, o pluralismo de expressão e de organização política e a democracia representativa e participativa.",
+      "linha2" : "A República de Angola promove e defende os direitos e liberdades fundamentais do Homem, quer como indivíduo quer como membro de grupos sociais organizados, e assegura o respeito e a garantia da sua efectivação pelos poderes legislativo, executivo e judicial, seus órgãos e instituições, bem como por todas as pessoas singulares e colectivas."
+    },
+    "titulo" : "Estado Democrático de Direito"
+  }, {
+    "artigo" : "3",
+    "epigrafo" : {
+      "linha1" : "A soberania, una e indivisível, pertence ao povo, que a exerce através do sufrágio universal, livre, igual, directo, secreto e periódico, do referendo e das demais formas estabelecidas pela Constituição, nomeadamente para a escolha dos seus representantes.",
+      "linha2" : "O Estado exerce a sua soberania sobre a totalidade do território angolano, compreendendo este, nos termos da presente Constituição, da lei e do direito internacional, a extensão do espaço terrestre, as águas interiores e o mar territorial, bem como o espaço aéreo, o solo e o subsolo, o fundo marinho e os leitos correspondentes.",
+      "linha3" : "O Estado exerce jurisdição e direitos de soberania em matéria deconservação, exploração e aproveitamento dos recursos naturais, biológicos e não biológicos, na zona contígua, na zona económica exclusiva e na plataforma continental, nos termos da lei e do direito internacional."
+    },
+    "titulo" : "Soberania"
+  }, {
+    "artigo" : "4",
+    "epigrafo" : {
+      "linha1" : "O poder político é exercido por quem obtenha legitimidade mediante processo eleitoral livre e democraticamente exercido, nos termos da Constituição e da lei.",
+      "linha2" : "São ilegítimos e criminalmente puníveis a tomada e o exercício do poder político com base em meios violentos ou por outras formas não previstas nem conformes com a Constituição."
+    },
+    "titulo" : "Exercito do poder político"
+  }, {
+    "artigo" : "5",
+    "epigrafo" : {
+      "linha1" : "O território da República de Angola é o historicamente definido pelos limites geográficos de Angola tais ",
+      "linha2" : "O disposto no número anterior não prejudica as adições que tenham sido ou que venham a ser estabelecidas por tratados internacionais.",
+      "linha3" : "A República de Angola organiza-se territorialmente, para fins políticoadministrativos, em Províncias e estas em Municípios, podendo ainda estruturar-se em Comunas e em entes territoriais equivalentes, nos termos da Constituição e da lei.",
+      "linha4" : "A definição dos limites e das características dos escalões territoriais, a sua criação, modificação ou extinção, no âmbito da organização políticoadministrativa, bem como a organização territorial para fins especiais, tais como económicos, militares, estatísticos, ecológicos ou similares, são fixadas por lei",
+      "linha5" : "A lei fixa a estruturação, a designação e a progressão das unidades urbanas e dos aglomerados populacionais.",
+      "linha6" : "O território angolano é indivisível, inviolável e inalienável, sendo energicamente combatida qualquer acção de desmembramento ou de separação de suas parcelas, não podendo ser alienada parte alguma do território nacional ou dos direitos de soberania que sobre ele o Estado exerce."
+    },
+    "titulo" : "organização do território"
+  }, {
+    "artigo" : "6",
+    "epigrafo" : {
+      "linha1" : "A Constituição é a lei suprema da República de Angola.",
+      "linha2" : "O Estado subordina-se à Constituição e funda-se na legalidade, devendo respeitar e fazer respeitar as leis.",
+      "linha3" : "As leis, os tratados e os demais actos do Estado, dos órgãos do poder local e dos entes públicos em geral só são válidos se forem conformes à Constituição."
+    },
+    "titulo" : "Supremacia da Constituição e legitimidade"
+  }, {
+    "artigo" : "7",
+    "epigrafo" : {
+      "linha1" : "É reconhecida a validade e a força jurídica do costume que não seja contrário à Constituição nem atente contra a dignidade da pessoa humana."
+    },
+    "titulo" : "costume"
+  }, {
+    "artigo" : "8",
+    "epigrafo" : {
+      "linha1" : "A República de Angola é um Estado unitário que respeita, na sua organização, os princípios da autonomia dos órgãos do poder local e da desconcentração e descentralização administrativas, nos termos da Constituição e da lei."
+    },
+    "titulo" : "Estado unitario"
+  }, {
+    "artigo" : "9",
+    "epigrafo" : {
+      "linha1" : "A nacionalidade angolana pode ser originária ou adquirida.",
+      "linha2" : "É cidadão angolano de origem o filho de pai ou de mãe de nacionalidade angolana, nascido em Angola ou no estrangeiro.",
+      "linha3" : "Presume-se cidadão angolano de origem o recém-nascido achado em território angolano.",
+      "linha4" : "Nenhum cidadão angolano de origem pode ser privado da nacionalidade originária.",
+      "linha5" : "A lei estabelece os requisitos de aquisição, perda e reaquisição da nacionalidade angolana."
+    },
+    "titulo" : "Nacionalidade"
+  }, {
+    "artigo" : "10",
+    "epigrafo" : {
+      "linha1" : "A República de Angola é um Estado laico, havendo separação entre o Estado e as igrejas, nos termos da lei.",
+      "linha2" : "O Estado reconhece e respeita as diferentes confissões religiosas, as quais são livres na sua organização e no exercício das suas actividades, desde que as mesmas se conformem à Constituição e às leis da República de Angola.",
+      "linha3" : "O Estado protege as igrejas e as confissões religiosas, bem como os seus lugares e objectos de culto, desde que não atentem contra a Constituição e a ordem pública e se conformem com a Constituição e a lei."
+    },
+    "titulo" : "Estado laico"
+  }, {
+    "artigo" : "11",
+    "epigrafo" : {
+      "linha1" : "A República de Angola é uma Nação de vocação para a paz e o progresso, sendo um dever do Estado e um direito e responsabilidade de todos garantir, com respeito pela Constituição e pela lei, bem como pelas convenções internacionais, a paz e a segurança nacional.",
+      "linha2" : "A paz tem como base o primado do direito e da lei e visa assegurar as ondições necessárias à estabilidade e ao desenvolvimento do País.",
+      "linha3" : "A segurança nacional é baseada no primado do direito e da lei, na valorização do sistema integrado de segurança e no fortalecimento da vontade nacional, visando a garantia da salvaguarda do Estado e o asseguramento da estabilidade e do desenvolvimento, contra quaisquer ameaças e riscos."
+    },
+    "titulo" : "Paz e Segurança nacional"
+  }, {
+    "artigo" : "12",
+    "epigrafo" : {
+      "linha1" : "A República de Angola respeita e aplica os princípios da Carta da Organização das Nações Unidas e da Carta da União Africana e estabelece 6 relações de amizade e cooperação com todos os Estados e povos, na base dos seguintes princípios: a) Respeito pela soberania e independência nacional; b) Igualdade entre os Estados; c) Direito dos povos à autodeterminação e à independência; d) Solução pacífica dos conflitos; e) Respeito dos direitos humanos; f) Não ingerência nos assuntos internos dos outros Estados; g) Reciprocidade de vantagens; h) Repúdio e combate ao terrorismo, narcotráfico, racismo, corrupção e tráfico de seres e órgãos humanos; i) Cooperação com todos os povos para a paz, justiça e progresso da humanidade.",
+      "linha2" : "A República de Angola defende a abolição de todas as formas de colonialismo, agressão, opressão, domínio e exploração nas relações entre os povos.",
+      "linha3" : "A República de Angola empenha-se no reforço da identidade africana e no fortalecimento da acção dos Estados africanos em favor da potenciação do património cultural dos povos africanos.",
+      "linha4" : "O Estado angolano não permite a instalação de bases militares estrangeiras no seu território, sem prejuízo da participação, no quadro das organizações regionais ou internacionais, em forças de manutenção da paz e em sistemas de cooperação militar e de segurança colectiva."
+    },
+    "titulo" : "Relações internacionais"
+  }, {
+    "artigo" : "13",
+    "epigrafo" : {
+      "linha1" : "O direito internacional geral ou comum, recebido nos termos da presente Constituição, faz parte integrante da ordem jurídica angolana.",
+      "linha2" : "Os tratados e acordos internacionais regularmente aprovados ou ratificados vigoram na ordem jurídica angolana após a sua publicação oficial e entrada em vigor na ordem jurídica internacional e enquanto vincularem internacionalmente o Estado angolano."
+    },
+    "titulo" : "Direito internacional"
+  }, {
+    "artigo" : "14",
+    "epigrafo" : {
+      "linha1" : "O Estado respeita e protege a propriedade privada das pessoas singulares ou colectivas e a livre iniciativa económica e empresarial exercida nos termos da Constituição e da lei."
+    },
+    "titulo" : "Propriedade privada e livre iniciativa"
+  }, {
+    "artigo" : "15",
+    "epigrafo" : {
+      "linha1" : "A terra, que constitui propriedade originária do Estado, pode ser transmitida para pessoas singulares ou colectivas, tendo em vista o seu racional e efectivo aproveitamento, nos termos da Constituição e da lei.",
+      "linha2" : "São reconhecidos às comunidades locais o acesso e o uso das terras, nos termos da lei.",
+      "linha3" : "O disposto nos números anteriores não prejudica a possibilidade de expropriação por utilidade pública, mediante justa indemnização, nos termos da lei."
+    },
+    "titulo" : "Terra"
+  }, {
+    "artigo" : "16",
+    "epigrafo" : {
+      "linha1" : "Os recursos naturais, sólidos, líquidos ou gasosos existentes no solo, subsolo, no mar territorial, na zona económica exclusiva e na plataforma continental sob jurisdição de Angola são propriedade do Estado, que determina as condições para a sua concessão, pesquisa e exploração, nos termos da Constituição, da lei e do Direito Internacional."
+    },
+    "titulo" : "recursos naturais"
+  }, {
+    "artigo" : "17",
+    "epigrafo" : {
+      "linha1" : "Os partidos políticos, no quadro da presente Constituição e da lei, concorrem, em torno de um projecto de sociedade e de programa político, para a organização e para a expressão da vontade dos cidadãos, participando na vida política e na expressão do sufrágio universal, por meios democráticos e pacíficos, com respeito pelos princípios da independência nacional, da unidade nacional e da democracia política.",
+      "linha2" : "A constituição e o funcionamento dos partidos políticos devem, nos termos da lei, respeitar os seguintes princípios fundamentais: a) Carácter e âmbito nacionais; b) Livre constituição; c) Prossecução pública dos fins; d) Liberdade de filiação e filiação única; e) Utilização exclusiva de meios pacíficos na prossecução dos seus fins e interdição da criação ou utilização de organização militar, paramilitar ou militarizada; f) Organização e funcionamento democráticos; g) Representatividade mínima fixada por lei; h) Proibição de recebimento de contribuições de valor pecuniário e económico, provenientes de governos ou de instituições governamentais estrangeiros; i) Prestação de contas do uso de fundos públicos.",
+      "linha3" : "Os partidos políticos devem, nos seus objectivos, programa e prática, contribuir para: a) A consolidação da nação angolana e da independência nacional; b) A salvaguarda da integridade territorial; c) O reforço da unidade nacional; d) A defesa da soberania nacional e da democracia; e) A protecção das liberdades fundamentais e dos direitos da pessoa humana; f) A defesa da forma republicana de governo e do carácter laico do Estado. 4. Os partidos políticos têm direito a igualdade de tratamento por parte das entidades que exercem o poder público, direito a um tratamento imparcial da imprensa pública e direito de oposição democrática, nos termos da Constituição e da lei."
+    },
+    "titulo" : "Partidos políticos"
+  }, {
+    "artigo" : "18",
+    "epigrafo" : {
+      "linha1" : "São símbolos nacionais da República de Angola a Bandeira Nacional, a Insígnia Nacional e o Hino Nacional.",
+      "linha2" : "A Bandeira Nacional, a Insígnia Nacional e o Hino Nacional, símbolos da soberania e da independência nacionais, da unidade e da integridade da República de Angola, são os adoptados aquando da proclamação daindependência nacional, a 11 de Novembro de 1975 e tal como constam da Lei Constitucional de 1992 e dos anexos I, II e III da presente Constituição.",
+      "linha3" : "A lei estabelece as especificações técnicas e as disposições sobre a deferência e o uso da Bandeira Nacional, da Insígnia Nacional e do Hino Nacional."
+    },
+    "titulo" : "Simbolos nacionais"
+  }, {
+    "artigo" : "19",
+    "epigrafo" : {
+      "linha1" : "A língua oficial da República de Angola é o português.",
+      "linha2" : "O Estado valoriza e promove o estudo, o ensino e a utilização das demais línguas de Angola, bem como das principais línguas de comunicação internacional."
+    },
+    "titulo" : "Línguas"
+  }, {
+    "artigo" : "20",
+    "epigrafo" : {
+      "linha1" : "A Capital da República de Angola é Luanda"
+    },
+    "titulo" : "Capital da República de Angola"
+  }, {
+    "artigo" : "21",
+    "epigrafo" : {
+      "linha1" : "Constituem tarefas fundamentais do Estado angolano: a) Garantir a independência nacional, a integridade territorial e a soberania nacional b) Assegurar os direitos, liberdades e garantias fundamentais; c) Criar progressivamente as condições necessárias para tornar efectivos os direitos económicos, sociais e culturais dos cidadãos; d) Promover o bem-estar, a solidariedade social e a elevação da qualidade de vida do povo angolano, designadamente dos grupos populacionais mais desfavorecidos; e) Promover a erradicação da pobreza; f) Promover políticas que permitam tornar universais e gratuitos os cuidados primários de saúde; g) Promover políticas que assegurem o acesso universal ao ensino obrigatório gratuito, nos termos definidos por lei; h) Promover a igualdade de direitos e de oportunidades entre os angolanos, sem preconceitos de origem, raça, filiação partidária, sexo, cor, idade e quaisquer outras formas de discriminação; i) Efectuar investimentos estratégicos, massivos e permanentes no capital humano, com destaque para o desenvolvimento integral das crianças e dos jovens, bem como na educação, na saúde, na economia primária e secundária e noutros sectores estruturantes para o desenvolvimento auto-sustentável; j) Assegurar a paz e a segurança nacional; k) Promover a igualdade entre o homem e a mulher; l) Defender a democracia, assegurar e incentivar a participação democrática dos cidadãos e da sociedade civil na resolução dos problemas nacionais; m) Promover o desenvolvimento harmonioso e sustentado em todo o território nacional, protegendo o ambiente, os recursos naturais e o património histórico, cultural e artístico nacional; n) Proteger, valorizar e dignificar as línguas angolanas de origem africana, como património cultural, e promover o seu desenvolvimento, como línguas de identidade nacional e de comunicação; o) Promover a melhoria sustentada dos índices de desenvolvimento humano dos angolanos; p) Promover a excelência, a qualidade, a inovação, o empreendedorismo, a eficiência e a modernidade no desempenho dos cidadãos, das instituições e das empresas e serviços, nos diversos aspectos da vida e sectores de actividade; q) Outras previstas na Constituição e na lei.;"
+    },
+    "titulo" : "Tarefas fundamentais do Estado"
+  }, {
+    "artigo" : "22",
+    "epigrafo" : {
+      "linha1" : "Todos gozam dos direitos, das liberdades e das garantias constitucionalmente consagrados e estão sujeitos aos deveres estabelecidos na Constituição e na lei.",
+      "linha2" : "Os cidadãos angolanos que residam ou se encontrem no estrangeiro gozam dos direitos, liberdades e garantias e da protecção do Estado e estão sujeitos aos deveres consagrados na Constituição e na lei.",
+      "linha3" : "Todos têm deveres para com a família, a sociedade e o Estado e outras instituições legalmente reconhecidas e, em especial, o dever de: a) Respeitar os direitos, as liberdades e a propriedade de outrem, a moral, os bons costumes e o bem comum; b) Respeitar e considerar os seus semelhantes sem discriminação de espécie alguma e manter com eles relações que permitam promover, salvaguardar e reforçar o respeito e a tolerância recíprocos."
+    },
+    "titulo" : "princípio da universalidade"
+  }, {
+    "artigo" : "23",
+    "epigrafo" : {
+      "linha1" : "Todos são iguais perante a Constituição e a lei.",
+      "linha2" : "inguém pode ser prejudicado, privilegiado, privado de qualquer direito ou isento de qualquer dever em razão da sua ascendência, sexo, raça, etnia, cor, deficiência, língua, local de nascimento, religião, convicções políticas, ideológicas ou filosóficas, grau de instrução, condição económica ou social ou profissão."
+    },
+    "titulo" : "princípio da igualdade"
+  }, {
+    "artigo" : "24",
+    "epigrafo" : {
+      "linha1" : "A Maioridade é adquirida aos 18 anos."
+    },
+    "titulo" : "Maioridade"
+  }, {
+    "artigo" : "25",
+    "epigrafo" : {
+      "linha1" : "Os estrangeiros e apátridas gozam dos direitos, liberdades e garantias fundamentais, bem como da protecção do Estado.",
+      "linha2" : "Aos estrangeiros e apátridas são vedados: A titularidade de órgãos de soberania; Os direitos eleitorais, nos termos da lei; A criação ou participação em partidos políticos; Os direitos de participação política, previstos por lei; O acesso à carreira diplomática; O acesso às forças armadas, à polícia nacional e aos órgãos de inteligência e de segurança; g) O exercício de funções na administração directa do Estado, nos termos da lei; h) Os demais direitos e deveres reservados exclusivamente aos cidadãos angolanos pela Constituição e pela lei.",
+      "linha3" : "Aos cidadãos de comunidades regionais ou culturais de que Angola seja parte ou a que adira, podem ser atribuídos, mediante convenção internacional e em condições de reciprocidade, direitos não conferidos a estrangeiros, salvo a capacidade eleitoral activa e passiva para acesso à titularidade dos órgãos de soberania."
+    },
+    "titulo" : "estrangeiro e apátriados"
+  }, {
+    "artigo" : "26",
+    "epigrafo" : {
+      "linha1" : "Os direitos fundamentais estabelecidos na presente Constituição não excluem quaisquer outros constantes das leis e regras aplicáveis de direito internacional.",
+      "linha2" : "Os preceitos constitucionais e legais relativos aos direitos fundamentais devem ser interpretados e integrados de harmonia com a Declaração Universal dos Direitos do Homem, a Carta Africana dos Direitos do Homem e dos Povos e os tratados internacionais sobre a matéria, ratificados pela República de Angola.",
+      "linha3" : "Na apreciação de litígios pelos tribunais angolanos relativos à matéria sobre direitos fundamentais, aplicam-se os instrumentos internacionais referidos no número anterior, ainda que não sejam invocados pelas partes."
+    },
+    "titulo" : "âmbito dos direitos fundamentais"
+  }, {
+    "artigo" : "27",
+    "epigrafo" : {
+      "linha1" : "O regime jurídico dos direitos, liberdades e garantias enunciados neste capítulo são aplicáveis aos direitos, liberdades e garantias e aos direitos fundamentais de natureza análoga estabelecidos na Constituição, consagrados por lei ou por convenção internacional"
+    },
+    "titulo" : "Regime dos direitos, liberdades e garantias"
+  }, {
+    "artigo" : "28",
+    "epigrafo" : {
+      "linha1" : "Os preceitos constitucionais respeitantes aos direitos, liberdades e garantias fundamentais são directamente aplicáveis e vinculam todas as entidades públicas e privadas.",
+      "linha2" : "O Estado deve adoptar as iniciativas legislativas e outras medidas adequadas à concretização progressiva e efectiva, de acordo com os recursos disponíveis, dos direitos económicos, sociais e culturais."
+    },
+    "titulo" : "força jurídica"
+  }, {
+    "artigo" : "29",
+    "epigrafo" : {
+      "linha1" : "A todos é assegurado o acesso ao direito e aos tribunais para defesa dos seus direitos e interesses legalmente protegidos, não podendo a justiça ser denegada por insuficiência dos meios económicos.",
+      "linha2" : "Todos têm direito, nos termos da lei, à informação e consulta jurídicas, ao patrocínio judiciário e a fazer-se acompanhar por advogado perante qualquer bautoridade.",
+      "linha3" : "A lei define e assegura a adequada protecção do segredo de justiça.",
+      "linha4" : "Todos têm direito a que uma causa em que intervenham seja objecto de decisão em prazo razoável e mediante processo equitativo.",
+      "linha5" : "Para defesa dos direitos, liberdades e garantias pessoais, a lei assegura aos cidadãos procedimentos judiciais caracterizados pela celeridade e prioridade, de modo a obter tutela efectiva e em tempo útil contra ameaças ou violações desses direitos."
+    },
+    "titulo" : "acesso ao direito e tutela jurisdicional efectiva"
+  }, {
+    "artigo" : "30",
+    "epigrafo" : {
+      "linha1" : "O Estado respeita e protege a vida da pessoa humana, que é inviolável."
+    },
+    "titulo" : "Direito á vida"
+  }, {
+    "artigo" : "31",
+    "epigrafo" : {
+      "linha1" : "A integridade moral, intelectual e física das pessoas é inviolável.",
+      "linha2" : "O Estado respeita e protege a pessoa e a dignidade humanas."
+    },
+    "titulo" : "Direito á integridade pessoal"
+  }, {
+    "artigo" : "32",
+    "epigrafo" : {
+      "linha1" : "A todos são reconhecidos os direitos à identidade pessoal, à capacidade civil, à nacionalidade, ao bom nome e reputação, à imagem, à palavra e à reserva de intimidade da vida privada e familiar.",
+      "linha2" : "A lei estabelece as garantias efectivas contra a obtenção e a utilização, abusivas ou contrárias à dignidade humana, de informações relativas às pessoas e às famílias."
+    },
+    "titulo" : "Direito á identidade, á privacidade e á intimidade"
+  }, {
+    "artigo" : "33",
+    "epigrafo" : {
+      "linha1" : "O domicílio é inviolável.",
+      "linha2" : "Ninguém pode entrar ou fazer busca ou apreensão no domicílio de qualquer pessoa sem o seu consentimento, salvo nas situações previstas na Constituição e na lei, quando munido de mandado da autoridade competente, emitido nos casos e segundo as formas legalmente previstas, ou em caso de flagrante delito ou situação de emergência, para prestação de auxílio.",
+      "linha3" : "A lei estabelece os casos em que pode ser ordenada, por autoridade competente, a entrada, busca e apreensão de bens, documentos ou outros objectos em domicílio."
+    },
+    "titulo" : "Iviolabilidade do domicílio"
+  }, {
+    "artigo" : "34",
+    "epigrafo" : {
+      "linha1" : "É inviolável o sigilo da correspondência e dos demais meios de comunicação privada, nomeadamente das comunicações postais, telegráficas, telefónicas e telemáticas.",
+      "linha2" : "Apenas por decisão de autoridade judicial competente proferida nos termos da lei, é permitida a ingerência das autoridades públicas na correspondência e nos demais meios de comunicação privada."
+    },
+    "titulo" : "Iviolabilidade da correspondência e das comunicações"
+  }, {
+    "artigo" : "35",
+    "epigrafo" : {
+      "linha1" : "A família é o núcleo fundamental da organização da sociedade e é objecto de especial protecção do Estado, quer se funde em casamento, quer em união de facto, entre homem e mulher.",
+      "linha2" : "Todos têm o direito de livremente constituir família nos termos da Constituição e da lei.",
+      "linha3" : "O homem e a mulher são iguais no seio da família, da sociedade e do Estado, gozando dos mesmos direitos e cabendo-lhes os mesmos deveres.",
+      "linha4" : "A lei regula os requisitos e os efeitos do casamento e da união de facto, bem como os da sua dissolução.",
+      "linha5" : "Os filhos são iguais perante a lei, sendo proibida a sua discriminação e a utilização de qualquer designação discriminatória relativa à filiação.",
+      "linha6" : "A protecção dos direitos da criança, nomeadamente, a sua educação integral e harmoniosa, a protecção da sua saúde, condições de vida e ensino constituem absoluta prioridade da família, do Estado e da sociedade.",
+      "linha7" : "O Estado, com a colaboração da família e da sociedade, promove o desenvolvimento harmonioso e integral dos jovens e adolescentes, bem como a criação de condições para a efectivação dos seus direitos políticos, económicos, sociais e culturais e estimula as organizações juvenis para a prossecução de fins económicos, culturais, artísticos, recreativos, desportivos, ambientais, científicos, educacionais, patrióticos e de intercâmbio juvenil internacional."
+    },
+    "titulo" : "Familia, casamento e filiação"
+  }, {
+    "artigo" : "36",
+    "epigrafo" : {
+      "linha1" : "Todo o cidadão tem direito à liberdade física e à segurança individual",
+      "linha2" : "Ninguém pode ser privado da liberdade, excepto nos casos previstos pela Constituição e pela lei.",
+      "linha3" : "O direito à liberdade física e à segurança individual envolve ainda: a) O direito de não ser sujeito a quaisquer formas de violência por entidades públicas ou privadas; b) O direito de não ser torturado nem tratado ou punido de maneira cruel, desumana ou degradante; c) O direito de usufruir plenamente da sua integridade física e psíquica; d) O direito à segurança e controlo sobre o próprio corpo; e) O direito de não ser submetido a experiências médicas ou científicas sem consentimento prévio, informado e devidamente fundamentado."
+    },
+    "titulo" : "Liberdade física e á segurança pessoal"
+  }, {
+    "artigo" : "37",
+    "epigrafo" : {
+      "linha1" : "A todos é garantido o direito à propriedade privada e à sua transmissão, nos termos da Constituição e da lei.",
+      "linha2" : "O Estado respeita e protege a propriedade e demais direitos reais das pessoas singulares, colectivas e das comunidades locais, só sendo permitida arequisição civil temporária e a expropriação por utilidade pública, mediante justa e pronta indemnização, nos termos da Constituição e da lei.",
+      "linha3" : "O pagamento da indemnização a que se refere o número anterior é condição e eficácia da expropriação."
+    },
+    "titulo" : "Direito de propriedade, reaquisição e expropriação"
+  }, {
+    "artigo" : "38",
+    "epigrafo" : {
+      "linha1" : "A iniciativa económica privada é livre, sendo exercida com respeito pela Constituição e pela lei.",
+      "linha2" : "A todos é reconhecido o direito à livre iniciativa empresarial e cooperativa, a exercer nos termos da lei.",
+      "linha3" : "A lei promove, disciplina e protege a actividade económica e os investimentos por parte de pessoas singulares ou colectivas privadas, nacionais e estrangeiras, a fim de garantir a sua contribuição para o desenvolvimento do país, defendendo a emancipação económica e tecnológica dos angolanos e os interesses dos trabalhadores."
+    },
+    "titulo" : "Direito á livre iniciativa económica"
+  }, {
+    "artigo" : "39",
+    "epigrafo" : {
+      "linha1" : "Todos têm o direito de viver num ambiente sadio e não poluído, bem como o dever de o defender e preservar.",
+      "linha2" : "O Estado adopta as medidas necessárias à protecção do ambiente e das espécies da flora e da fauna em todo o território nacional, à manutenção do equilíbrio ecológico, à correcta localização das actividades económicas e à exploração e utilização racional de todos os recursos naturais, no quadro de um desenvolvimento sustentável e do respeito pelos direitos das gerações futuras e da preservação das diferentes espécies.",
+      "linha3" : "A lei pune os actos que ponham em perigo ou lesem a preservação do ambiente."
+    },
+    "titulo" : "Direito do ambiente"
+  }, {
+    "artigo" : "40",
+    "epigrafo" : {
+      "linha1" : "Todos têm o direito de exprimir, divulgar e compartilhar livremente os seus pensamentos, as suas ideias e opiniões, pela palavra, imagem ou qualquer outro meio, bem como o direito e a liberdade de informar, de se informar e de ser informado, sem impedimentos nem discriminações.",
+      "linha2" : "O exercício dos direitos e liberdades constantes do número anterior não pode ser impedido nem limitado por qualquer tipo ou forma de censura.",
+      "linha3" : "A liberdade de expressão e a liberdade de informação têm como limites os direitos de todos ao bom nome, à honra e à reputação, à imagem e à reserva da intimidade da vida privada e familiar, a protecção da infância e da juventude, o segredo de Estado, o segredo de justiça, o segredo profissional e demais garantias daqueles direitos, nos termos regulados pela lei.",
+      "linha4" : "As infracções cometidas no exercício da liberdade de expressão e de informação fazem incorrer o seu autor em responsabilidade disciplinar, civil e criminal, nos termos da lei.",
+      "linha5" : "A todas as pessoas, singulares ou colectivas, é assegurado, nos termos da lei e em condições de igualdade e eficácia, o direito de resposta e de rectificação, bem como o direito a indemnização pelos danos sofridos."
+    },
+    "titulo" : "Liberdade de expressão e de informação"
+  }, {
+    "artigo" : "41",
+    "epigrafo" : {
+      "linha1" : "A liberdade de consciência, de crença religiosa e de culto é invioláve",
+      "linha2" : "Ninguém pode ser privado dos seus direitos, perseguido ou isento de obrigações por motivo de crença religiosa ou de convicção filosófica ou política.",
+      "linha3" : "É garantido o direito à objecção de consciência, nos termos da lei.",
+      "linha4" : " Ninguém pode ser questionado por qualquer autoridade acerca das suas convicções ou práticas religiosas, salvo para recolha de dados estatísticos não individualmente identificáveis."
+    },
+    "titulo" : "Liberdade de consciência, de religião e de culto"
+  }, {
+    "artigo" : "42",
+    "epigrafo" : {
+      "linha1" : "É livre a expressão da actividade intelectual, artística, política, científica e de comunicação, independentemente de censura ou licença.",
+      "linha2" : "Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar.",
+      "linha3" : "A lei assegura aos autores de inventos industriais, patentes de invenções e processos tecnológicos o privilégio temporário para a sua utilização, bem como a protecção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e económico do País."
+    },
+    "titulo" : "Propriedade intelectual"
+  }, {
+    "artigo" : "43",
+    "epigrafo" : {
+      "linha1" : "É livre a criação intelectual, artística, científica e tecnológica.",
+      "linha2" : "A liberdade a que se refere o número anterior compreende o direito à invenção, produção e divulgação da obra científica, literária ou artística, incluindo a protecção legal dos direitos de autor."
+    },
+    "titulo" : "Liberdade de criação cultural e científica"
+  }, {
+    "artigo" : "44",
+    "epigrafo" : {
+      "linha1" : "É garantida a liberdade de imprensa, não podendo esta ser sujeita a qualquer censura prévia, nomeadamente de natureza política, ideológica ou artística.",
+      "linha2" : "O Estado assegura o pluralismo de expressão e garante a diferença de propriedade e a diversidade editorial dos meios de comunicação.",
+      "linha3" : "O Estado assegura a existência e o funcionamento independente e qualitativamente competitivo de um serviço público de rádio e de televisã",
+      "linha4" : " A lei estabelece as formas de exercício da liberdade de imprensa."
+    },
+    "titulo" : "Liberdade de imprensa"
+  }, {
+    "artigo" : "45",
+    "epigrafo" : {
+      "linha1" : "Nos períodos de eleições gerais e autárquicas e de referendo, os concorrentes têm direito a tempos de antena nas estações de radiodifusão e de televisão públicas, de acordo com o âmbito da eleição ou do referendo, nos termos da Constituição e da lei.",
+      "linha2" : "Os partidos políticos representados na Assembleia Nacional têm direito de resposta e de réplica política às declarações do Executivo, nos termos regulados por lei."
+    },
+    "titulo" : "Direito de antena, de resposta e de républica políticas"
+  }, {
+    "artigo" : "46",
+    "epigrafo" : {
+      "linha1" : " Qualquer cidadão que resida legalmente em Angola pode livremente fixar residência, movimentar-se e permanecer em qualquer parte do território nacional, excepto nos casos previstos na Constituição e quando a lei determine restrições, nomeadamente ao acesso e permanência, para a protecção do ambiente ou de interesses nacionais vitais.",
+      "linha2" : " Todo o cidadão é livre de emigrar e de sair do território nacional e de a ele regressar, sem prejuízo das limitações decorrentes do cumprimento de deveres legais."
+    },
+    "titulo" : "Liberdade de residência, circulação e emigração"
+  }, {
+    "artigo" : "47",
+    "epigrafo" : {
+      "linha1" : " É garantida a todos os cidadãos a liberdade de reunião e de manifestação pacífica e sem armas, sem necessidade de qualquer autorização e nos termos da lei.",
+      "linha2" : " As reuniões e manifestações em lugares públicos carecem de prévia comunicação à autoridade competente, nos termos e para os efeitos estabelecidos por lei."
+    },
+    "titulo" : "Liberdade de reunião e de manifestação"
+  }, {
+    "artigo" : "48",
+    "epigrafo" : {
+      "linha1" : " Os cidadãos têm o direito de, livremente e sem dependência de qualquer autorização administrativa, constituir associações, desde que estas se organizem com base em princípios democráticos, nos termos da lei.",
+      "linha2" : " As associações prosseguem livremente os seus fins, sem interferência das autoridades públicas, e não podem ser dissolvidas ou as suas actividades suspensas, senão nos casos previstos por lei.",
+      "linha3" : " Ninguém pode ser obrigado a fazer parte de uma associação nem coagido por qualquer meio a permanecer nela.",
+      "linha4" : " São proibidas as associações ou quaisquer agrupamentos cujos fins ou actividades sejam contrários à ordem constitucional, incitem e pratiquem a violência, promovam o tribalismo, o racismo, a ditadura, o fascismo e a xenofobia, bem como as associações de tipo militar, paramilitar ou militarizadas."
+    },
+    "titulo" : "Liberdade de associação"
+  }, {
+    "artigo" : "49",
+    "epigrafo" : {
+      "linha1" : " É garantida a todos os profissionais liberais ou independentes e em geral a todos os trabalhadores por conta própria, a liberdade de associação profissional para a defesa dos seus direitos e interesses e para regular a disciplina deontológica de cada profissão.",
+      "linha2" : " As associações de profissionais liberais ou independentes regem-se pelos princípios da organização e funcionamento democráticos e da independência em relação ao Estado, nos termos da lei.",
+      "linha3" : " As normas deontológicas das associações profissionais não podem contrariar a ordem constitucional e os direitos fundamentais da pessoa humana nem a lei."
+    },
+    "titulo" : "Liberdade de associação profissional e empresarial"
+  }, {
+    "artigo" : "50",
+    "epigrafo" : {
+      "linha1" : " É reconhecida aos trabalhadores a liberdade de criação de associações sindicais para a defesa dos seus interesses individuais e colectivos.",
+      "linha2" : " É reconhecido às associações sindicais o direito de defender os direitos e os interesses dos trabalhadores e de exercer o direito de concertação social, os quais devem ter em devida conta os direitos fundamentais da pessoa humana e das comunidades e as capacidades reais da economia, nos termos da lei.",
+      "linha3" : " A Lei regula a constituição, filiação, federação, organização e extinção das associações sindicais e garante a sua autonomia e independência do patronato e do Estado."
+    },
+    "titulo" : "Liberdade sindical"
+  }, {
+    "artigo" : "51",
+    "epigrafo" : {
+      "linha1" : " Os trabalhadores têm direito à greve.",
+      "linha2" : " É proibido o lock out, não podendo o empregador provocar a paralisação total ou parcial da empresa, a interdição do acesso aos locais de trabalho pelos trabalhadores ou situações similares, como meio de influenciar a solução de conflitos laborais.",
+      "linha3" : " A lei regula o exercício do direito à greve e estabelece as suas limitações nos serviços e actividades considerados essenciais e inadiáveis para acorrer à satisfação de necessidades sociais impreteríveis."
+    },
+    "titulo" : "Direito à greve e proibição do lock out"
+  }, {
+    "artigo" : "52",
+    "epigrafo" : {
+      "linha1" : " Todo o cidadão tem o direito de participar na vida política e na direcção dos assuntos públicos, directamente ou por intermédio de representantes livremente eleitos, e de ser informado sobre os actos do Estado e a gestão dos assuntos públicos, nos termos da Constituição e da lei.",
+      "linha2" : " Todo o cidadão tem o dever de cumprir e respeitar as leis e de obedecer às ordens das autoridades legítimas, dadas nos termos da Constituição e da lei e no respeito pelos direitos, liberdades e garantias fundamentais."
+    },
+    "titulo" : "Participação na vida pública"
+  }, {
+    "artigo" : "53",
+    "epigrafo" : {
+      "linha1" : " Todo o cidadão tem o direito de acesso, em condições de igualdade e liberdade, aos cargos públicos, nos termos da Constituição e da lei.",
+      "linha2" : " Ninguém pode ser prejudicado na sua colocação, no seu emprego, na sua carreira profissional ou nos benefícios sociais a que tenha direito, em virtude do exercício de direitos políticos ou do desempenho de cargos públicos, nos termos da Constituição e da lei.",
+      "linha3" : " No acesso a cargos electivos, a lei só pode estabelecer as inelegibilidades necessárias para garantir a liberdade de escolha dos eleitores e a isenção e independência do exercício dos respectivos cargos."
+    },
+    "titulo" : "Acesso a cargos públicos"
+  }, {
+    "artigo" : "54",
+    "epigrafo" : {
+      "linha1" : " Todo o cidadão, maior de dezoito anos, tem o direito de votar e ser eleito para qualquer órgão electivo do Estado e do poder local e de desempenhar os seus cargos ou mandatos, nos termos da Constituição e da lei.",
+      "linha2" : " A capacidade eleitoral passiva não pode ser limitada senão em virtude das incapacidades e inelegibilidades previstas na Constituição.",
+      "linha3" : " O exercício de direito de sufrágio é pessoal e intransmissível e constitui um dever de cidadania."
+    },
+    "titulo" : "Direito de sufrágio"
+  }, {
+    "artigo" : "55",
+    "epigrafo" : {
+      "linha1" : " É livre a criação de associações políticas e partidos políticos, nos termos da Constituição e da lei.",
+      "linha2" : " Todo o cidadão tem o direito de participar em associações políticas e partidos políticos, nos termos da Constituição e da lei."
+    },
+    "titulo" : "Liberdade de constituição de associações políticas e partidos políticos"
+  }, {
+    "artigo" : "56",
+    "epigrafo" : {
+      "linha1" : " O Estado reconhece como invioláveis os direitos e liberdades fundamentais consagrados na Constituição e cria as condições políticas, económicas, sociais, culturais, de paz e estabilidade que garantam a sua efectivação e protecção, nos termos da Constituição e da lei.",
+      "linha2" : " Todas as autoridades públicas têm o dever de respeitar e de garantir o livre exercício dos direitos e das liberdades fundamentais e o cumprimento dos deveres constitucionais e legais."
+    },
+    "titulo" : "Garantia geral do Estado"
+  }, {
+    "artigo" : "57",
+    "epigrafo" : {
+      "linha1" : " A lei só pode restringir os direitos, liberdades e garantias nos casos expressamente previstos na Constituição, devendo as restrições limitar-se ao necessário, proporcional e razoável numa sociedade livre e democrática, para salvaguardar outros direitos ou interesses constitucionalmente protegidos.",
+      "linha2" : " As leis restritivas de direitos, liberdades e garantias têm de revestir carácter geral e abstracto e não podem ter efeito retroactivo nem diminuir a extensão nem o alcance do conteúdo essencial dos preceitos constitucionais."
+    },
+    "titulo" : "Restrição de direitos, liberdades e garantias"
+  }, {
+    "artigo" : "58",
+    "epigrafo" : {
+      "linha1" : " O exercício dos direitos, liberdades e garantias dos cidadãos apenas pode ser limitado ou suspenso em caso de estado de guerra, de estado de sítio ou de estado de emergência, nos termos da Constituição e da lei.",
+      "linha2" : " O estado de guerra, o estado de sítio e o estado de emergência só podem ser declarados, no todo ou em parte do território nacional, nos casos de agressão efectiva ou iminente por forças estrangeiras, de grave ameaça ou perturbação da ordem constitucional democrática ou de calamidade pública",
+      "linha3" : " A opção pelo estado de guerra, estado de sítio ou estado de emergência, bem como a respectiva declaração e execução, devem sempre limitar-se às acções necessárias e adequadas à manutenção da ordem pública, à protecção do interesse geral, ao respeito do princípio da proporcionalidade e limitar-se, nomeadamente quanto à sua extensão, duração e meios utilizados, ao estritamente necessário ao pronto restabelecimento da normalidade constitucional.",
+      "linha4" : " A declaração do estado de guerra, do estado de sítio ou do estado de emergência confere às autoridades competência para tomarem as providências necessárias e adequadas ao pronto restabelecimento da normalidade constitucional.",
+      "linha5" : " Em caso algum a declaração do estado de guerra, do estado de sítio ou do estado de emergência pode afectar: a) A aplicação das regras constitucionais relativas à competência e ao funcionamento dos órgãos de soberania; b) Os direitos e imunidades dos membros dos órgãos de soberania; c) O direito à vida, à integridade pessoal e à identidade pessoal; d) A capacidade civil e a cidadania; e) A não retroactividade da lei penal; f) O direito de defesa dos arguidos; g) A liberdade de consciência e de religião.",
+      "linha6" : " Lei especial regula o estado de guerra, o estado de sítio e o estado de emergência."
+    },
+    "titulo" : "Limitação ou suspensão dos direitos, liberdades e garantias"
+  }, {
+    "artigo" : "59",
+    "epigrafo" : {
+      "linha1" : " É proibida a pena de morte."
+    },
+    "titulo" : "Proibição da pena de morte"
+  }, {
+    "artigo" : "60",
+    "epigrafo" : {
+      "linha1" : " Ninguém pode ser submetido a tortura, a trabalhos forçados, nem a tratamentos ou penas cruéis, desumanas ou degradantes."
+    },
+    "titulo" : "Proibição de tortura e de tratamentos degradantes"
+  }, {
+    "artigo" : "61",
+    "epigrafo" : {
+      "linha1" : " São imprescritíveis e insusceptíveis de amnistia e liberdade provisória, mediante a aplicação de medidas de coacção processual: a) O genocídio e os crimes contra a humanidade previstos na lei; b) Os crimes como tal previstos na lei."
+    },
+    "titulo" : "Crimes hediondos e violentos"
+  }, {
+    "artigo" : "62",
+    "epigrafo" : {
+      "linha1" : " São considerados válidos e irreversíveis os efeitos jurídicos dos actos de amnistia praticados ao abrigo de lei competente."
+    },
+    "titulo" : "Irreversibilidade das amnistias"
+  }, {
+    "artigo" : "63",
+    "epigrafo" : {
+      "linha1" : " Toda a pessoa privada da liberdade deve ser informada, no momento da sua prisão ou detenção, das respectivas razões e dos seus direitos, nomeadamente: a) Ser-lhe exibido o mandado de prisão ou detenção emitido por autoridade competente, nos termos da lei, salvo nos casos de flagrante delito; b) Ser informada sobre o local para onde será conduzida; c) Informar à família e ao advogado sobre a sua prisão ou detenção e sobre o local para onde será conduzida; d) Escolher defensor que acompanhe as diligências policiais e judiciais; e) Consultar advogado antes de prestar quaisquer declarações; f) Ficar calada e não prestar declarações ou de o fazer apenas na presença de advogado de sua escolha; g) Não fazer confissões ou declarações contra si própria; h) Ser conduzida perante o magistrado competente para a confirmação ou não da prisão e de ser julgada nos prazos legais ou libertada; i) Comunicar em língua que compreenda ou mediante intérprete."
+    },
+    "titulo" : "Direitos dos detidos e presos"
+  }, {
+    "artigo" : "64",
+    "epigrafo" : {
+      "linha1" : " A privação da liberdade apenas é permitida nos casos e nas condições determinadas por lei.",
+      "linha2" : " A polícia ou outra entidade apenas podem deter ou prender nos casos previstos na Constituição e na lei, em flagrante delito ou quando munidas de mandado de autoridade competente."
+    },
+    "titulo" : "Privação da liberdade"
+  }, {
+    "artigo" : "65",
+    "epigrafo" : {
+      "linha1" : " A responsabilidade penal é pessoal e intransmissível.",
+      "linha2" : " Ninguém pode ser condenado por crime senão em virtude de lei anterior que declare punível a acção ou a omissão, nem sofrer medida de segurança cujos pressupostos não estejam fixados por lei anterior.",
+      "linha3" : " Não podem ser aplicadas penas ou medidas de segurança que não estejam expressamente cominadas por lei anterior.",
+      "linha4" : " Ninguém pode sofrer pena ou medida de segurança mais graves do que as previstas no momento da correspondente conduta ou da verificação dos respectivos pressupostos, aplicando-se retroactivamente as leis penais de conteúdo mais favorável ao arguido.",
+      "linha5" : " Ninguém deve ser julgado mais do que uma vez pelo mesmo facto.",
+      "linha6" : " Os cidadãos injustamente condenados têm direito, nas condições que a lei prescrever, à revisão da sentença e à indemnização pelos danos sofridos."
+    },
+    "titulo" : "Aplicação da lei criminal"
+  }, {
+    "artigo" : "66",
+    "epigrafo" : {
+      "linha1" : " Não pode haver penas nem medidas de segurança privativas ou restritivas da liberdade com carácter perpétuo ou de duração ilimitada ou indefinida.",
+      "linha2" : " Os condenados a quem sejam aplicadas medidas de seguranças privativas da liberdade mantêm a titularidade dos direitos fundamentais, salvo as limitações inerentes ao sentido da condenação e às exigências próprias da respectiva execução."
+    },
+    "titulo" : "Limites das penas e das medidas de segurança"
+  }, {
+    "artigo" : "67",
+    "epigrafo" : {
+      "linha1" : " Ninguém pode ser detido, preso ou submetido a julgamento senão nos termos da lei, sendo garantido a todos os arguidos ou presos o direito de defesa, de recurso e de patrocínio judiciário.",
+      "linha2" : " Presume-se inocente todo o cidadão até ao trânsito em julgado da sentença de condenação.",
+      "linha3" : " O arguido tem direito a escolher defensor e a ser por ele assistido em todos os actos do processo, especificando a lei os casos e as fases em que a assistência por advogado é obrigatória.",
+      "linha4" : " Os arguidos presos têm o direito de receber visitas do seu advogado, de familiares, amigos e assistente religioso e de com eles se corresponder, sem prejuízo do disposto na alínea e) do artigo 63.º e o disposto no n.º 3 do artigo 194.º.",
+      "linha5" : " Aos arguidos ou presos que não possam constituir advogado por razões de ordem económica deve ser assegurada, nos termos da lei, a adequada assistência judiciária.",
+      "linha6" : " Qualquer pessoa condenada tem o direito de interpor recurso ordinário ou extraordinário no tribunal competente da decisão contra si proferida em matéria penal, nos termos da lei."
+    },
+    "titulo" : "Garantias do processo criminal"
+  }, {
+    "artigo" : "68",
+    "epigrafo" : {
+      "linha1" : " Todos têm o direito à providência de habeas corpus contra o abuso de poder, em virtude de prisão ou detenção ilegal, a interpor perante o tribunal competente.",
+      "linha2" : " A providência de habeas corpus pode ser requerida pelo próprio ou por qualquer pessoa no gozo dos seus direitos políticos.",
+      "linha3" : " Lei própria regula o processo de habeas corpus."
+    },
+    "titulo" : "Habeas corpus"
+  }, {
+    "artigo" : "69",
+    "epigrafo" : {
+      "linha1" : " Todos têm o direito de recorrer à providência de habeas data para assegurar o conhecimento das informações sobre si constantes de ficheiros, arquivos ou registos informáticos, de ser informados sobre o fim a que se destinam, bem como de exigir a rectificação ou actualização dos mesmos, nos termos da lei e salvaguardados o segredo de Estado e o segredo de justiça.",
+      "linha2" : " É proibido o registo e tratamento de dados relativos às convicções políticas, filosóficas ou ideológicas, à fé religiosa, à filiação partidária ou sindical, à origem étnica e à vida privada dos cidadãos com fins discriminatórios.",
+      "linha3" : " É igualmente proibido o acesso a dados pessoais de terceiros, bem como à transferência de dados pessoais de um ficheiro para outro pertencente a serviço ou instituição diversa, salvo nos casos estabelecidos por lei ou por decisão judicial.",
+      "linha4" : " Aplicam-se ao habeas data, com as necessárias adaptações, as disposições do artigo anterior."
+    },
+    "titulo" : "Habeas data"
+  }, {
+    "artigo" : "70",
+    "epigrafo" : {
+      "linha1" : " Não é permitida a expulsão nem a extradição de cidadãos angolanos do território nacional.",
+      "linha2" : " Não é permitida a extradição de cidadãos estrangeiros por motivos políticos ou por factos passíveis de condenação à pena de morte e sempre que se admita, com fundamento, que o extraditado possa vir a ser sujeito a tortura, tratamento desumano, cruel ou de que resulte lesão irreversível da integridade física, segundo o direito do Estado requisitante.",
+      "linha3" : " Os tribunais angolanos conhecem, nos termos da lei, os factos de que sejam acusados os cidadãos cuja extradição não seja permitida de acordo com o disposto nos números anteriores do presente artigo.",
+      "linha4" : " Só por decisão judicial pode ser determinada a expulsão do território nacional de cidadãos estrangeiros ou de apátridas autorizados a residir no país ou que tenham pedido asilo, salvo em caso de revogação do acto de autorização, nos termos da lei.",
+      "linha5" : " A lei regula os requisitos e as condições para a extradição e a expulsão de estrangeiros."
+    },
+    "titulo" : "Extradição e expulsão"
+  }, {
+    "artigo" : "71",
+    "epigrafo" : {
+      "linha1" : "É garantido a todo o cidadão estrangeiro ou apátrida o direito de asilo em caso de perseguição por motivos políticos, nomeadamente de grave ameaça ou de perseguição, em consequência da sua actividade em favor da democracia, da independência nacional, da paz entre os povos, da liberdade e dos direitos da pessoa humana, de acordo com as leis em vigor e os instrumentos internacionais.",
+      "linha2" : " A lei define o estatuto do refugiado político."
+    },
+    "titulo" : "Direito de asilo"
+  }, {
+    "artigo" : "72",
+    "epigrafo" : {
+      "linha1" : " A todo o cidadão é reconhecido o direito a julgamento justo, célere e conforme a lei."
+    },
+    "titulo" : "Direito a julgamento justo e conforme"
+  }, {
+    "artigo" : "73",
+    "epigrafo" : {
+      "linha1" : " Todos têm o direito de apresentar, individual ou colectivamente, aos órgãos de soberania ou quaisquer autoridades, petições, denúncias, reclamações ou queixas, para a defesa dos seus direitos, da Constituição, das leis ou do interesse geral, bem como o direito de ser informados em prazo razoável sobre o resultado da respectiva apreciação."
+    },
+    "titulo" : "Direito de petição, denúncia, reclamação e queixa"
+  }, {
+    "artigo" : "74",
+    "epigrafo" : {
+      "linha1" : " Qualquer cidadão, individualmente ou através de associações de interesses específicos, tem direito à acção judicial, nos casos e termos estabelecidos por lei, que vise anular actos lesivos à saúde pública, ao património público, histórico e cultural, ao meio ambiente e à qualidade de vida, à defesa do consumidor, à legalidade dos actos da administração e demais interesses colectivos."
+    },
+    "titulo" : "Direito de acção popular"
+  }, {
+    "artigo" : "75",
+    "epigrafo" : {
+      "linha1" : " O Estado e outras pessoas colectivas públicas são solidária e civilmente responsáveis por acções e omissões praticadas pelos seus órgãos, respectivos titulares, agentes e funcionários, no exercício das funções legislativa, jurisdicional e administrativa, ou por causa delas, de que resulte violação dos direitos, liberdades e garantias ou prejuízo para o titular destes ou para terceiros.",
+      "linha2" : " Os autores dessas acções ou omissões são criminal e disciplinarmente responsáveis, nos termos da lei."
+    },
+    "titulo" : "Responsabilidade do Estado e de outras pessoas colectivas públicas"
+  }, {
+    "artigo" : "76",
+    "epigrafo" : {
+      "linha1" : " O trabalho é um direito e um dever de todos.",
+      "linha2" : " Todo o trabalhador tem direito à formação profissional, justa remuneração, descanso, férias, protecção, higiene e segurança no trabalho, nos termos da lei.",
+      "linha3" : " Para assegurar o direito ao trabalho, incumbe ao Estado promover: a) A implementação de políticas de emprego; b) A igualdade de oportunidades na escolha da profissão ou género de trabalho e condições para que não seja vedado ou limitado por qualquer tipo de discriminação; c) A formação académica e o desenvolvimento científico e tecnológico, bem como a valorização profissional dos trabalhadores.",
+      "linha4" : "O despedimento sem justa causa é ilegal, constituindo-se a entidade empregadora no dever de justa indemnização ao trabalhador despedido, nos termos da lei."
+    },
+    "titulo" : "Direito ao trabalho"
+  }, {
+    "artigo" : "77",
+    "epigrafo" : {
+      "linha1" : " O Estado promove e garante as medidas necessárias para assegurar a todos o direito à assistência médica e sanitária, bem como o direito à assistência na infância, na maternidade, na invalidez, na deficiência, na velhice e em qualquer situação de incapacidade para o trabalho, nos termos da lei.",
+      "linha2" : " Para garantir o direito à assistência médica e sanitária incumbe ao Estado: a) Desenvolver e assegurar a funcionalidade de um serviço de saúde em todo o território nacional; b) Regular a produção, distribuição, comércio e o uso dos produtos químicos, biológicos, farmacêuticos e outros meios de tratamento e diagnóstico; c) Incentivar o desenvolvimento do ensino médico-cirúrgico e da investigação médica e de saúde.",
+      "linha3" : " A iniciativa particular e cooperativa nos domínios da saúde, previdência e segurança social é fiscalizada pelo Estado e exerce-se nas condições previstas por lei."
+    },
+    "titulo" : "Saúde e protecção social"
+  }, {
+    "artigo" : "78",
+    "epigrafo" : {
+      "linha1" : " O consumidor tem direito à qualidade dos bens e serviços, à informação e esclarecimento, à garantia dos seus produtos e à protecção na relação de consumo.",
+      "linha2" : " O consumidor tem direito a ser protegido no fabrico e fornecimento de bens e serviços nocivos à saúde e à vida, devendo ser ressarcido pelos danos que lhe sejam causados.",
+      "linha3" : "A publicidade de bens e serviços de consumo é disciplinada por lei, sendo proibidas todas as formas de publicidade oculta, indirecta ou enganosa.",
+      "linha4" : " A lei protege o consumidor e garante a defesa dos seus interesses."
+    },
+    "titulo" : "Direitos do consumidor"
+  }, {
+    "artigo" : "79",
+    "epigrafo" : {
+      "linha1" : " O Estado promove o acesso de todos à alfabetização, ao ensino, à cultura e ao desporto, estimulando a participação dos diversos agentes particulares na sua efectivação, nos termos da lei.",
+      "linha2" : " O Estado promove a ciência e a investigação científica e tecnológica.",
+      "linha3" : " A iniciativa particular e cooperativa nos domínios do ensino, da cultura e do desporto exerce-se nas condições previstas na lei."
+    },
+    "titulo" : "Direito ao ensino, cultura e desporto"
+  }, {
+    "artigo" : "80",
+    "epigrafo" : {
+      "linha1" : " A criança tem direito à atenção especial da família, da sociedade e do Estado, os quais, em estreita colaboração, devem assegurar a sua ampla protecção contra todas as formas de abandono, discriminação, opressão, exploração e exercício abusivo de autoridade, na família e nas demais instituições.",
+      "linha2" : " As políticas públicas no domínio da família, da educação e da saúde devem salvaguardar o princípio do superior interesse da criança, como forma de garantir o seu pleno desenvolvimento físico, psíquico e cultural.",
+      "linha3" : " O Estado assegura especial protecção à criança órfã, com deficiência, abandonada ou, por qualquer forma, privada de um ambiente familiar normal.",
+      "linha4" : " O Estado regula a adopção de crianças, promovendo a sua integração em ambiente familiar sadio e velando pelo seu desenvolvimento integral.",
+      "linha5" : "É proibido, nos termos da lei, o trabalho de menores em idade escolar."
+    },
+    "titulo" : "Infância"
+  }, {
+    "artigo" : "81",
+    "epigrafo" : {
+      "linha1" : "  Os jovens gozam de protecção especial para efectivação dos seus direitos económicos, sociais e culturais, nomeadamente: a) No ensino, na formação profissional e na cultura; b) No acesso ao primeiro emprego, no trabalho e na segurança social; c) No acesso à habitação; d) Na educação física e no desporto; e) No aproveitamento dos tempos livres.",
+      "linha2" : " Para a efectivação do disposto no número anterior, lei própria estabelece as bases para o desenvolvimento das políticas para a juventude.",
+      "linha3" : " A política de juventude deve ter como objectivos prioritários o desenvolvimento da personalidade dos jovens, a criação de condições para a sua efectiva integração na vida activa, o gosto pela criação livre e o sentido de serviço à comunidade.",
+      "linha4" : " O Estado, em colaboração com as famílias, as escolas, as empresas, as organizações de moradores, as associações e fundações de fins culturais e as colectividades de cultura e recreio, fomenta e apoia as organizações juvenis na prossecução daqueles objectivos, bem como o intercâmbio internacional da juventude."
+    },
+    "titulo" : "Juventude"
+  }, {
+    "artigo" : "82",
+    "epigrafo" : {
+      "linha1" : " Os cidadãos idosos têm direito à segurança económica e a condições de habitação e convívio familiar e comunitário que respeitem a sua autonomia pessoal e evitem ou superem o isolamento e a marginalização social.",
+      "linha2" : " A política de terceira idade engloba medidas de carácter económico, social e cultural tendentes a proporcionar às pessoas idosas oportunidades de realização pessoal, através de uma participação activa na vida da comunidade."
+    },
+    "titulo" : "Terceira idade"
+  }, {
+    "artigo" : "83",
+    "epigrafo" : {
+      "linha1" : " Os cidadãos com deficiência gozam plenamente dos direitos e estão sujeitos aos deveres consagrados na Constituição, sem prejuízo da restrição do exercício ou do cumprimento daqueles para os quais se encontrem incapacitados ou limitados.",
+      "linha2" : " O Estado adopta uma política nacional de prevenção, tratamento, reabilitação e integração dos cidadãos com deficiência, de apoio às suas famílias e de remoção de obstáculos à sua mobilidade.",
+      "linha3" : "O Estado adopta políticas visando a sensibilização da sociedade em relação aos deveres de inclusão, respeito e solidariedade para com os cidadãos com deficiência.",
+      "linha4" : " O Estado fomenta e apoia o ensino especial e a formação técnico-profissional para os cidadãos com deficiência."
+    },
+    "titulo" : "Cidadãos com deficiência"
+  }, {
+    "artigo" : "84",
+    "epigrafo" : {
+      "linha1" : " Os combatentes da luta pela independência nacional, os veteranos da Pátria, os que contraíram deficiência no cumprimento do serviço militar ou paramilitar, bem como os filhos menores e os cônjuges sobrevivos de combatentes tombados, gozam de estatuto e protecção especial do Estado e da sociedade, nos termos da Constituição e da lei.",
+      "linha2" : " Compete ao Estado promover políticas que visem assegurar a integração social, económica e cultural dos cidadãos referidos no ponto anterior, bem como a protecção, valorização e preservação dos feitos históricos por estes protagonizados."
+    },
+    "titulo" : "Antigos Combatentes e Veteranos da Pátria"
+  }, {
+    "artigo" : "85",
+    "epigrafo" : {
+      "linha1" : "Todo o cidadão tem direito à habitação e à qualidade de vida."
+    },
+    "titulo" : "Direito à habitação e à qualidade de vida"
+  }, {
+    "artigo" : "86",
+    "epigrafo" : {
+      "linha1" : "O Estado estimula a associação dos angolanos que se encontram no estrangeiro e promove a sua ligação ao País, bem como os laços económicos, sociais, culturais e de patriotismo e solidariedade com as comunidades angolanas aí radicadas ou que revelem alguma relação de origem, consanguinidade, cultura e história com Angola."
+    },
+    "titulo" : "Comunidades no estrangeiro"
+  }, {
+    "artigo" : "87",
+    "epigrafo" : {
+      "linha1" : " Os cidadãos e as comunidades têm direito ao respeito, valorização e preservação da sua identidade cultural, linguística e artística.",
+      "linha2" : " O Estado promove e estimula a conservação e valorização do património histórico, cultural e artístico do povo angolano."
+    },
+    "titulo" : "Património histórico, cultural e artístico"
+  }, {
+    "artigo" : "88",
+    "epigrafo" : {
+      "linha1" : " Todos têm o dever de contribuir para as despesas públicas e da sociedade, em função da sua capacidade económica e dos benefícios que aufiram, através de impostos e taxas, com base num sistema tributário justo e nos termos da lei."
+    },
+    "titulo" : "Dever de contribuição"
+  }, {
+    "artigo" : "89",
+    "epigrafo" : {
+      "linha1" : " A organização e a regulação das actividades económicas assentam na garantia geral dos direitos e liberdades económicas em geral, na valorização do trabalho, na dignidade humana e na justiça social, em conformidade com os seguintes princípios fundamentais: a) Papel do Estado de regulador da economia e coordenador do desenvolvimento económico nacional harmonioso, nos termos da Constituição e da lei; b) Livre iniciativa económica e empresarial, a exercer nos termos da lei; c) Economia de mercado, na base dos princípios e valores da sã concorrência, da moralidade e da ética, previstos e assegurados por lei; d) Respeito e protecção à propriedade e iniciativa privadas; e) Função social da propriedade; f) Redução das assimetrias regionais e desigualdades sociais; g) Concertação social; h) Defesa do consumidor e do ambiente.",
+      "linha2" : "As formas e o regime de intervenção do Estado são regulados por lei."
+    },
+    "titulo" : "Princípios Fundamentais"
+  }, {
+    "artigo" : "90",
+    "epigrafo" : {
+      "linha1" : " O Estado promove o desenvolvimento social através de: a) Adopção de critérios de redistribuição da riqueza que privilegiem os cidadãos e em particular os extractos sociais mais vulneráveis e carenciados da sociedade; b) Promoção da Justiça social, enquanto incumbência do Estado, através de uma política fiscal que assegure a justiça, a equidade e a solidariedade em todos os domínios da vida nacional; c) Fomento, apoio e regulação da intervenção do sector privado na realização dos direitos sociais; d) Remoção dos obstáculos de natureza económica, social e cultural que impeçam a real igualdade de oportunidades entre os cidadãos; e) A fruição por todos os cidadãos dos benefícios resultantes do esforço colectivo do desenvolvimento, nomeadamente na melhoria quantitativa e qualitativa doseu nível de vida."
+    },
+    "titulo" : "Justiça social"
+  } ]
+}

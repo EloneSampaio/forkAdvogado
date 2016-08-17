@@ -6,18 +6,24 @@
   <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
   <title></title>
 
-  <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+
+
+<link href="lib/ionic/css/ionic.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 
+
   <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
-    <link href="css/ionic.app.css" rel="stylesheet">
+    <link href="css/ionic.app.css " rel="stylesheet ">
     -->
 
   <!-- ionic/angularjs js -->
   <script src="lib/ionic/js/ionic.bundle.js"></script>
-  <script src="lib/public/angularfire.js"></script>
+  <script src="lib/public/angularfire.min.js"></script>
   <script src="lib/public/firebase.js"></script>
   <script src="lib/public/ng-cordova.min.js"></script>
+    <script src="lib/public/ng-cordova-oauth.min.js"></script>
+  
+
 
   <!-- cordova script (this will be a 404 during development) -->
   <script src="cordova.js"></script>
@@ -33,22 +39,26 @@
   <script src="js/usuario/usuario.module.js"></script>
   <script src="js/usuario/usuario.route.js"></script>
   <script src="js/usuario/controllers/usuario.js"></script>
+    <script src="js/usuario/controllers/conta.js"></script>
+
    <script src="js/usuario/services/usuario.js"></script>
 
 </head>
 
+
 <body ng-app="app">
   <ion-nav-view></ion-nav-view>
-</body>
+<div id="fb-root"></div>
 
 <script>
-   var config = {
+  // Initialize Firebase
+  var config = {
     apiKey: "AIzaSyC1PTXIJV8nOH17nOSEjVa9DUOPSKY0iBc",
     authDomain: "appfork-64c7d.firebaseapp.com",
     databaseURL: "https://appfork-64c7d.firebaseio.com",
-    storageBucket: "appfork-64c7d.appspot.com",
+    storageBucket: "appfork-64c7d.appspot.com"
   };
   firebase.initializeApp(config);
-
 </script>
+</body>
 </html>

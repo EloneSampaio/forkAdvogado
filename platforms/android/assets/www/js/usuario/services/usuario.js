@@ -4,15 +4,19 @@
 
 
     usuarioService.$inject = ['$firebaseAuth'];
-    angular.module('app').factory('usuarioFactory', usuarioService);
+    angular.module('app.usuario').factory('usuarioFactory', usuarioService);
 
 
-    function usuarioService($firebaseAuth, $window) {
+    function usuarioService($firebaseAuth) {
 
-        var auth = $firebaseAuth();
+        var Auth = $firebaseAuth(firebase.auth());
         var service = {
             create: create,
-            login: login
+            login: login,
+            authenticate: authenticate,
+            sair: sair,
+            verificaStatus: verificaStatus
+
         };
 
         return service;
@@ -20,17 +24,52 @@
 
 
         function create(usuario) {
-            return firebase.auth().createUserWithEmailAndPassword(usuario.email, usuario.senha);
+            return Auth.$createUserWithEmailAndPassword(usuario.email, usuario.senha);
         }
 
         function login(usuario) {
-            return firebase.auth().signInWithEmailAndPassword(usuario.email, usuario.senha);
+            return Auth.$signInWithEmailAndPassword(usuario.email, usuario.senha);
         }
 
         function update(usuario) {
             var usuario = firebase.auth().currentUser;
             return user.updateProfile({ displayName: usuario.nome, photoURL: usuario.foto });
         }
+
+        function verificaStatus() {
+            firebase.auth().onAuthStateChanged(function (user) {
+
+                if (user) {
+                    return true;
+
+                } else {
+                    return false;
+                }
+            });
+        }
+
+        function authenticate(auth) {
+            switch (auth) {
+                case 'facebook':
+                    //var provider = new firebase.auth.FacebookAuthProvider();
+                    var provider = Auth.$signInWithPopup(auth);
+
+
+                    break;
+
+                default:
+                    break;
+            }
+            return provider;
+            // return firebase.auth().signInWithPopup(provider)
+        }
+
+        function sair() {
+            return Auth.$signOut();
+
+        }
+
+
 
 
     }

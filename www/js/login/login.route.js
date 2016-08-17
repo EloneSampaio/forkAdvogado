@@ -1,27 +1,41 @@
-(function(){
+(function () {
   'use strict';
 
   function routa($stateProvider, $urlRouterProvider) {
 
     $stateProvider
-   
-     .state('login', {
+
+      .state('login', {
         url: '/login',
-        views: {
-          'menuContent': {
-            templateUrl: 'js/login/views/index.html',
-            controller: 'loginController',
-            controllerAs: 'vm'
-          }
-        }
-      });
+        templateUrl: 'js/login/views/index.html',
+        controller: 'loginController',
+        controllerAs: 'vm',
+        onEnter:  autenticar
+  
+
+      }
+      );
 
 
 
   }
+  autenticar.$inject = ['$state'];
+  function autenticar($state) {
+    firebase.auth().onAuthStateChanged(function (user) {
+
+      if (user) {
+        console.log('logado');
+
+      } else {
+        console.log('nao logado');
+        $state.go('login');
+      }
+    });
+  }
+
 
 
   routa.$inject = ['$stateProvider', '$urlRouterProvider'];
-angular.module('app.login').config(routa);
+  angular.module('app.login').config(routa);
 
 })();

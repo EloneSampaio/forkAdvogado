@@ -1,1 +1,76 @@
-/* Empty. Add your own CSS if you like */
+.login-custom {
+	background-color: #000;
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.list {
+	width: 75%;
+	margin: auto;
+	margin-top: 60px;
+}
+/*
+.item {
+	background: none;
+	border:none;
+}
+.item-input {
+	border-bottom: 1px solid #fff;
+}
+.item-input i {
+	color: #fff;
+	font-size: 25px;
+}
+.item-input input {
+	font-size: 16px;
+	margin-left: 10px;
+	color: #fff;
+}
+.item-button {
+	padding: 0;
+}
+*/
+h1 {
+	font-family: 'Pacifico';
+	color: #000;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 50px;
+}
+h1 span {
+	font-family: 'Pacifico';
+	color: #000;
+	font-size: 25px;
+	position: absolute;
+	margin-top: 55px;
+	margin-left: -35px;
+}
+
+.button-first {
+	padding-top: 20px;
+}
+
+/*Manipulando botoens*/
+#btn-CConta{
+	color: #000;
+	font-size: 12px;
+	text-decoration: underline;
+	padding: 0;
+	margin: 0;
+	font-weight: bold;
+}
+
+#btn-facebook{
+	background-color: #3b5998;
+	color: #ffffff;
+}
+
+#btn-google{
+	background-color:#d62d20;
+	color: #ffffff;
+}
+
+#btn-voltar{
+	color: #fff;
+}
+

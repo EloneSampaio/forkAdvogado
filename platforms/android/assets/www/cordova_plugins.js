@@ -31,6 +31,40 @@ module.exports = [
         "clobbers": [
             "datePicker"
         ]
+    },
+    {
+        "id": "cordova-plugin-inappbrowser.inappbrowser",
+        "file": "plugins/cordova-plugin-inappbrowser/www/inappbrowser.js",
+        "pluginId": "cordova-plugin-inappbrowser",
+        "clobbers": [
+            "cordova.InAppBrowser.open",
+            "window.open"
+        ]
+    },
+    {
+        "id": "ionic-plugin-keyboard.keyboard",
+        "file": "plugins/ionic-plugin-keyboard/www/android/keyboard.js",
+        "pluginId": "ionic-plugin-keyboard",
+        "clobbers": [
+            "cordova.plugins.Keyboard"
+        ],
+        "runs": true
+    },
+    {
+        "id": "cordova-plugin-device.device",
+        "file": "plugins/cordova-plugin-device/www/device.js",
+        "pluginId": "cordova-plugin-device",
+        "clobbers": [
+            "device"
+        ]
+    },
+    {
+        "id": "phonegap-facebook-plugin.FacebookConnectPlugin",
+        "file": "plugins/phonegap-facebook-plugin/facebookConnectPlugin.js",
+        "pluginId": "phonegap-facebook-plugin",
+        "clobbers": [
+            "facebookConnectPlugin"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -38,7 +72,13 @@ module.exports.metadata =
 {
     "cordova-plugin-dialogs": "1.2.1",
     "cordova-plugin-spinner-dialog": "1.3.1",
-    "cordova-plugin-datepicker": "0.9.2"
+    "cordova-plugin-datepicker": "0.9.2",
+    "cordova-plugin-whitelist": "1.2.3-dev",
+    "cordova-plugin-inappbrowser": "1.4.1-dev",
+    "ionic-plugin-keyboard": "2.2.1",
+    "cordova-plugin-device": "1.1.2",
+    "cordova-plugin-console": "1.0.3",
+    "phonegap-facebook-plugin": "0.12.0"
 };
 // BOTTOM OF METADATA
 });

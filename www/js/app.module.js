@@ -10,8 +10,8 @@
 
 
 
-  var app = angular.module('app', ['ionic', 'firebase', 
-  'ngCordova','app.home','app.login','app.usuario']);
+  var app = angular.module('app', ['ionic', 'firebase',
+    'ngCordova', 'app.home', 'app.login', 'app.usuario']);
 
 
   /*  
@@ -29,6 +29,22 @@
     });
 
 
+
+  });
+  app.directive('goClick', function ($location) {
+    return function (scope, element, attrs) {
+      var path;
+
+      attrs.$observe('goClick', function (val) {
+        path = val;
+      });
+
+      element.bind('click', function () {
+        scope.$apply(function () {
+          $location.path(path);
+        });
+      });
+    };
   });
 
 
@@ -39,24 +55,39 @@
       url: '/sair',
       controller: 'SairController'
     });
+    $stateProvider.state('conta', {
+       url: '/conta',
+     templateUrl: 'js/usuario/views/conta.html',
+            controller: 'contaController',
+            controllerAs: 'vm',
+    });
 
 
-    $urlRouterProvider.otherwise('home');
+
+
+    $urlRouterProvider.otherwise('/app/home');
 
   }
 
-  function SairController($window,usuarioFactory) {
+  function SairController($location, usuarioFactory) {
 
     //firebase.auth().signOut().then(function () {
-  usuarioFactory.sair().then(function(){
-      $window.location.href = '#/login';
-    }).catch(function (error) {
-      console.log('ocorreu um erro' + error);
-    });
+    usuarioFactory.sair();
+
+    $location.path('/login');
+    window.localStorage.removeItem("firebase:session::localhost");
+
+
+
   }
 
+
+  
+
+
+
   routa.$inject = ['$stateProvider', '$urlRouterProvider'];
-  SairController.$inject = ['$window','usuarioFactory'];
+  SairController.$inject = ['$location', 'usuarioFactory'];
 
 
   app.config(routa);

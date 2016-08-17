@@ -1,21 +1,34 @@
 
 (function () {
-    
+  'use strict';
+
   homeController.$inject = ['usuarioFactory'];
-  angular.module('app').controller('homeController', homeController);
+  angular.module('app.home').controller('homeController', homeController);
 
 
 
   function homeController(usuarioService) {
     var vm = this;
-    vm. add=adicionar;
+    vm.add = adicionar;
+   
 
     function adicionar(d) {
 
       usuarioService.create(d);
       console.log('add');
     }
-    vm.titulo = 'sam';
+
+    firebase.auth().onAuthStateChanged(function (user) {
+      if (user) {
+         console.log(user);
+        vm.perfil = user;
+        vm.mostrar=false;
+
+      } else {
+        return false;
+      }
+    });
+
 
 
   }

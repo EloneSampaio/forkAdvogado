@@ -1,35 +1,25 @@
-    <ion-pane>
-      <ion-header-bar align-title="left" class="bar-positive">
-        <h1 class="title" align-title="left">App</h1>
-        <div class="buttons">
-            <button class="button button-small button-stable" href='#/conta'>Criar Conta</button>
-        </div>
+<ion-view >
+   <ion-header-bar align-title="left" class="bar-positive">
+        
+       
       </ion-header-bar>
-        <ion-content>
-          <br>
-          <br>
-          <br>
-          <div class="list list-inset">
-            <label class="item item-input">
-              <input type="email" placeholder="Email ou nome do usuario">
-            </label>
-
-            <label class="item item-input">
-              <input type="password" placeholder="Palavra-passe">
-            </label>
-
-            <button class="button button-block button-positive">Iniciar</button>
-            <button class="button button-clear ion-social-facebook 
-            button button-dark"> Iniciar com Facebook</button> 
-            <button class="button button-clear ion-social-twitter 
-            button-dark"> Iniciar com Twitter</button>
-            <br>
-            <br>
-            <button class="button ion-android-walk button-clear button-dark"> Conta para advogados</button>
-          </div>
-        </ion-content>
-
-        <div class="bar bar-footer bar-light">
-          <div class="title">app</div>
-        </div>
-    </ion-pane>
+    <ion-content class="has-header padding">
+        <form name="form"  class="list card no-margin">
+            
+            <ion-input class="item item-input item-stacked-label" >
+                <ion-label >Email</ion-label>
+                <input type="email" name="email" placeholder="Email" ng-model="vm.email" required>
+            </ion-input>
+ 
+            <ion-input class="item item-input item-stacked-label">
+                <ion-label >Senha</ion-label>
+                <input type="password" name="senha" placeholder="Senha" ng-model="vm.senha">
+            </ion-input>
+ 
+            <ion-input class="item item-input padding">
+                <input type="button" class="button button-positive" value="Criar" ng-click="vm.add(vm)" />
+            </ion-input>
+ 
+        </form>
+    </ion-content>
+</ion-view>

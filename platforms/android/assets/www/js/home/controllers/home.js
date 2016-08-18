@@ -2,15 +2,20 @@
 (function () {
   'use strict';
 
-  homeController.$inject = ['usuarioFactory'];
+  homeController.$inject = ['usuarioFactory', '$rootScope', '$firebaseObject'];
   angular.module('app.home').controller('homeController', homeController);
 
 
 
-  function homeController(usuarioService) {
+  function homeController(usuarioService, $rootScope, $firebaseObject) {
     var vm = this;
     vm.add = adicionar;
-   
+    vm.perfil = $rootScope.UsuarioLogado;
+    var rootrEF = firebase.database().ref().child('constituicao');
+    var object = $firebaseObject(rootrEF);
+    console.log(object);
+    vm.dados = object;
+
 
     function adicionar(d) {
 
@@ -18,16 +23,7 @@
       console.log('add');
     }
 
-    firebase.auth().onAuthStateChanged(function (user) {
-      if (user) {
-         console.log(user);
-        vm.perfil = user;
-        vm.mostrar=false;
 
-      } else {
-        return false;
-      }
-    });
 
 
 

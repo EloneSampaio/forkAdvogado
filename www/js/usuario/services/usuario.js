@@ -15,7 +15,8 @@
             login: login,
             authenticate: authenticate,
             sair: sair,
-            verificaStatus: verificaStatus
+            verificaStatus: verificaStatus,
+            createAdvogado: createAdvogado
 
         };
 
@@ -68,6 +69,19 @@
             return Auth.$signOut();
 
         }
+
+        function createAdvogado(valor, $firebaseObject) {
+            var ref = firebase.database().ref("constituicao");
+            console.log(ref);
+            ref.on("value", function (snapshot) {
+                console.log(snapshot.val());
+            }, function (errorObject) {
+                console.log("The read failed: " + errorObject.code);
+            });
+
+        }
+
+
 
 
 

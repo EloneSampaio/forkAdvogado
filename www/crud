@@ -1,0 +1,4 @@
+ var rootrEF = firebase.database().ref().child('constituicao');
+    var object = $firebaseObject(rootrEF);
+    console.log(object);
+    vm.dados = object;

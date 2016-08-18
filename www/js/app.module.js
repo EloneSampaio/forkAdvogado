@@ -11,7 +11,7 @@
 
 
   var app = angular.module('app', ['ionic', 'firebase',
-    'ngCordova', 'app.home', 'app.login', 'app.usuario']);
+    'ngCordova', 'app.home', 'app.login', 'app.usuario','app.post','ionic-toast']);
 
 
   /*  
@@ -58,7 +58,7 @@
     $stateProvider.state('conta', {
        url: '/conta',
      templateUrl: 'js/usuario/views/conta.html',
-            controller: 'contaController',
+            controller: 'usuarioController',
             controllerAs: 'vm',
     });
 

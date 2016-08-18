@@ -11,6 +11,23 @@
         abstract: true,
         templateUrl: 'templates/menu.html',
         controller: 'homeController'
+      }).state('app.tab', {
+        url: '/app',
+        abstract: true,
+        templateUrl: 'js/home/views/tabs.html',
+        controller: 'homeController'
+      })
+      .state('app.pictures', {
+        url: '/app',
+        abstract: true,
+        templateUrl: 'js/home/views/tab-pictures.html',
+        controller: 'homeController'
+      })
+      .state('app.tab-icons', {
+        url: '/app',
+        abstract: true,
+        templateUrl: 'js/home/views/tab-icons.html',
+        controller: 'homeController'
       })
 
       .state('app.home', {

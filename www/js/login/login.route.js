@@ -19,12 +19,14 @@
 
 
   }
-  autenticar.$inject = ['$state'];
-  function autenticar($state) {
+  autenticar.$inject = ['$state','$rootScope'];
+  function autenticar($state,$rootScope) {
     firebase.auth().onAuthStateChanged(function (user) {
 
       if (user) {
+        
         console.log('logado');
+        $rootScope.UsuarioLogado=user;
 
       } else {
         console.log('nao logado');

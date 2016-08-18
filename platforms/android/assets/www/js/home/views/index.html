@@ -1,19 +1,24 @@
+<ion-view view-title="Postagens">
+  <ion-content class="padding">
+      <section id="cd-timeline" class="cd-container">
+          	<p class="timelineText"></p>
+        <div ng-repeat="(id,item) in vm.dados">
+          <div class="cd-timeline-block">
+          	<!-- CUSTOMIZE YOUR STYLE USING DEFAULT IONIC VALUES SUCH AS POSITIVE, CALM, BALANCED,... -->
+            <div class="cd-timeline-picture dark">
 
-
-     <ion-pane>
-      <ion-header-bar align-title="center">
-        <button class="button button-icon icon ion-ios-arrow-left"></button>
-        <h1 class="title">Perfil</h1>
-        <button class="button button-icon icon ion-ios-gear-outline"></button>
-      </ion-header-bar>
-      <ion-content>
-        <div class="top-profile">
-          <div class="badge">3</div>
-          <img class="profile" ng-src="{{vm.perfil.photoURL}}" alt=" foto de {{vm.perfil.displayName}}">
+              <img ng-src="/img/tete.jpg"></img>
+            </div>
+            <!-- CUSTOMIZE YOUR STYLE USING DEFAULT IONIC VALUES SUCH AS POSITIVE, CALM, BALANCED,... -->
+            <div class="cd-timeline-content dark">
+            	<h5 class="marginBottom0 marginTop0">{{id}}</h5>
+            	<p class="marginTop5 cd-author">{{item.titulo}}</p>
+                
+              	<p class="marginTop5 cd-author" ng-repeat="(id,valor) in item.epigrafo">{{id}}{{valor}}</p>
+             
+            </div>
+          </div>
         </div>
-        <h1 class="name">{{vm.perfil.displayName}}</h1>
-        <h2 class="prof">{{vm.perfil.email}}</h2>
-    
-      
-      </ion-content>
-    </ion-pane>
+      </section>
+  </ion-content>
+</ion-view>

@@ -6,22 +6,22 @@
           
           <div class="list list-inset">
             <label class="item item-input">
-              <input type="text" placeholder="Nome">
+              <input type="text" placeholder="Nome" ng-model="vm.nome">
             </label>
             <label class="item item-input">
-              <input type="text" placeholder="Email">
+              <input type="text" placeholder="Email" ng-model="vm.email">
             </label>
             <label class="item item-input">
-              <input type="password" placeholder="Palavra-passe">
+              <input type="password" placeholder="Palavra-passe" ng-model="vm.senha">
             </label>
             <label class="item item-input">
-              <input type="password" placeholder="Confirmar a Palavra-passe">
+              <input type="password" placeholder="Confirmar a Palavra-passe" ng-model="vm.confirmeSenha">
             </label>
             <label class="item item-input">
-              <input type="number" placeholder="Numero de ordem">
+              <input type="number" placeholder="Numero da cédula" ng-model="vm.telefone">
             </label>
 
-            <button class="button button-block button-positive">Criar conta</button> 
+            <button class="button button-block button-positive" ng-click="vm.criarAdvogado()">Criar conta</button> 
           </div>
 
         </ion-content>

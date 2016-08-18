@@ -1,0 +1,18 @@
+<ion-pane>
+    <ion-header-bar class="bar-positive">
+        <a id="btn-voltar" class="button icon-left ion-chevron-left button-clear button-light" href='#login'></a>
+    </ion-header-bar>
+    <ion-content>
+
+        <div class="list list-inset">
+            <label class="item item-input">
+              <textarea placeholder="Nome" ng-model="vm.conteudo"> </textarea>
+            </label>
+            <label class="item item-input">
+              <input type="file" ng-model="vm.foto" ng-init="vm.foto='shdhshd.js'"/>
+            </label>
+            <button class="button button-block button-positive" ng-click="vm.createPost(vm)">Publicar</button>
+        </div>
+
+    </ion-content>
+</ion-pane>

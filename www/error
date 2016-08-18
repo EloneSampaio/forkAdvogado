@@ -1,0 +1,40 @@
+.catch(function (error) {
+          if (error.code == "auth/wrong-password") {
+            vm.regError = true;
+            vm.message = error.message;
+
+
+            console.log(error.message);
+
+
+          }
+          if (error.code == "auth/invalid-email") {
+            vm.regError = true;
+            vm.message = error.message;
+
+            console.log(error.message);
+          }
+          if (error.code == "auth/user-disabled") {
+            vm.regError = true;
+            vm.message = error.message;
+
+            console.log(error.message);
+          }
+
+          if (error.code == "auth/user-not-found") {
+            vm.regError = true;
+            vm.message = error.message;
+
+            console.log(error.message);
+          }
+          if (error.code == "auth/wrong-password") {
+            vm.regError = true;
+            vm.message = error.message;
+
+            console.log(error.message);
+          }
+
+
+
+
+        });

@@ -51,7 +51,7 @@
 
         function authenticate(auth) {
             switch (auth) {
-                case 'facebook':
+                case 'google':
                     //var provider = new firebase.auth.FacebookAuthProvider();
                     var provider = Auth.$signInWithPopup(auth);
 
@@ -64,6 +64,7 @@
             return provider;
             // return firebase.auth().signInWithPopup(provider)
         }
+        
 
         function sair() {
             return Auth.$signOut();

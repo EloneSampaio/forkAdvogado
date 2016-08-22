@@ -1,24 +1,26 @@
-<ion-view view-title="Postagens">
-  <ion-content class="padding">
-      <section id="cd-timeline" class="cd-container">
-          	<p class="timelineText"></p>
-        <div ng-repeat="(id,item) in vm.dados">
-          <div class="cd-timeline-block">
-          	<!-- CUSTOMIZE YOUR STYLE USING DEFAULT IONIC VALUES SUCH AS POSITIVE, CALM, BALANCED,... -->
-            <div class="cd-timeline-picture dark">
 
-              <img ng-src="/img/tete.jpg"></img>
+
+<ion-view>
+    <ion-nav-title>Home</ion-nav-title>
+    <ion-content style="background-color: #eee;">
+        <ion-refresher pulling-text="Pull to refresh" on-refresh="vm.refresh()"></ion-refresher>
+        <div class="list card" ng-repeat="(id,item) in vm.dados track by id" ui-sref="app.post(::{ id: id })">
+            <div class="item item-avatar">
+                <img ng-src="{{::item.foto}}">
+                <h2>{{::item.autor_id}}</h2>
+                <p>{{::item.create_time | date:'medium'}}</p>
             </div>
-            <!-- CUSTOMIZE YOUR STYLE USING DEFAULT IONIC VALUES SUCH AS POSITIVE, CALM, BALANCED,... -->
-            <div class="cd-timeline-content dark">
-            	<h5 class="marginBottom0 marginTop0">{{id}}</h5>
-            	<p class="marginTop5 cd-author">{{item.titulo}}</p>
-                
-              	<p class="marginTop5 cd-author" ng-repeat="(id,valor) in item.epigrafo">{{id}}{{valor}}</p>
-             
+            <div class="item item-body">
+                <img class="full-image" ng-src="{{::item.foto}}">
+                <h2>{{::item.titulo}}</h2>
+                <p ng-bind-html="::post.excerpt"></p>
             </div>
-          </div>
         </div>
-      </section>
-  </ion-content>
-</ion-view>
+      <ion-infinite-scroll 
+            ng-if="vm.canWeLoadMoreContent()"
+            on-infinite="vm.loadMore()"  
+            distance="1%">
+        </ion-infinite-scroll>     
+    </ion-content>
+
+   

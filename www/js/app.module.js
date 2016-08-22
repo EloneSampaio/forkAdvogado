@@ -11,13 +11,13 @@
 
 
   var app = angular.module('app', ['ionic', 'firebase',
-    'ngCordova', 'app.home', 'app.login', 'app.usuario','app.post','ionic-toast']);
+    'ngCordova', 'app.home', 'app.login', 'app.usuario','app.post','ionic-toast','ngCordovaOauth']);
 
 
   /*  
     FUNCAO RESPONSAVEL POR CARREGAR ALGUMAS DEFINICOES DO MUDLO CORDOVA  
   */
-  app.run(function ($ionicPlatform) {
+  app.run(function ($ionicPlatform,$ionicPopup) {
     $ionicPlatform.ready(function () {
       if (window.cordova && window.cordova.plugins.Keyboard) {
         cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
@@ -25,6 +25,15 @@
       }
       if (window.StatusBar) {
         StatusBar.styleDefault();
+      }
+
+      if(window.Connection){
+        if(navigator.connection.type==Connection.NONE){
+      $ionicPopup.alert({
+         title: 'Mensagem',
+         content: 'Verifica a sua conexao de internet'
+      });
+        }
       }
     });
 

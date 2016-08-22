@@ -6,13 +6,20 @@
 
         <div class="list list-inset">
             <label class="item item-input">
+              <input type="text" ng-model="vm.titulo" placeholder="Titulo"/>
+            </label>
+
+            <label class="item item-input">
               <textarea placeholder="Nome" ng-model="vm.conteudo"> </textarea>
             </label>
-            <label class="item item-input">
-              <input type="file" ng-model="vm.foto" ng-init="vm.foto='shdhshd.js'"/>
-            </label>
-            <button class="button button-block button-positive" ng-click="vm.createPost(vm)">Publicar</button>
+            <button class="button button-full button-positive" ng-click="vm.escolher()">
+                <img ng-show="vm.imgURI !== undefined" ng-src="{{vm.imgURI}}" style="text-align: center">
+
+      <button class="button button-block button-positive" ng-click="vm.createPost(vm)">
+     Publicar
+     </button>
         </div>
+
 
     </ion-content>
 </ion-pane>

@@ -34,6 +34,12 @@
     <feature name="Toast">
         <param name="android-package" value="nl.xservices.plugins.Toast" />
     </feature>
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
     <name>app</name>
     <description>
          Meu advogado.
@@ -41,7 +47,7 @@
     <author email="elonesampaio@gmail.com" href="http://fork-system.com/">
       Elone Sampaio
     </author>
-    <content original-src="index.html" src="http://192.168.56.1:8100" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="*.firebaseio.com" />
     <allow-intent href="auth.firebase.com" />
